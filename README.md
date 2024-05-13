@@ -5,6 +5,7 @@ I love to turn designs into interactive,responsive websites.
 My stacks are ||HTML & CSS,Tailwind CSS||JAVASCRIPT||REACT JS
 
 I'm always open to work and ready to solve problems
+
 Gmail: olutimi131@gmail.com
 
 
