@@ -1,5 +1,7 @@
-Hello, my name is OLUTIMI ELIJAH and
+Hello, my name is OLUTIMI ELIJAH.
+
 I am a frontend web developer who is passionate about creating amazing user experiences. 
+
 I love to turn designs into interactive,responsive websites.
 
 My stacks are ||HTML & CSS,Tailwind CSS||JAVASCRIPT||REACT JS
